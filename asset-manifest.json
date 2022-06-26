@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-pixabay-gallery/static/css/main.cc30bf38.css",
+    "main.js": "/react-tailwind-pixabay-gallery/static/js/main.0453fc88.js",
+    "index.html": "/react-tailwind-pixabay-gallery/index.html",
+    "main.cc30bf38.css.map": "/react-tailwind-pixabay-gallery/static/css/main.cc30bf38.css.map",
+    "main.0453fc88.js.map": "/react-tailwind-pixabay-gallery/static/js/main.0453fc88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc30bf38.css",
+    "static/js/main.0453fc88.js"
+  ]
+}
